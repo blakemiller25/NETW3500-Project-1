@@ -36,19 +36,20 @@ There will be a windows that pops up and will have a dahsbaord like interface on
 
 11. Next again on the general information.
 
-12. You can configure the properties of the install I'm going to leave mine default. Then click next, then close.
+12. Set the installation Properties for the install in general information. The next option you can just click next on. Then close.
 ![Installation Properties](_images/Installation-Properties.png)
 
 13. Right click on the new application and select Distribute Content.
 ![Distribute Content](_images/Distribute-Content.png)
 
-14. Click next on the first option in general, in content click next.
-
-15. In the Content Destination click on the add button. And select Distibution Point
+14. In the Content Destination click on the add button. And select Distibution Point
 ![Add Button](_images/Add-Button.png)
 
-16. Select the server that you are going to deploy from. Then Click Ok then next
+15. Select the server that you are going to deploy from. Then Click Ok then next
 ![Distribution Point](_images/Distribution-Menu.png)
+
+16. On the Deployment setting page set the purpose to install.
+![Purpose](_images/Purpose.png)
 
 17. In the summary click next. The Close on the completion.
 
@@ -78,4 +79,9 @@ There will be a windows that pops up and will have a dahsbaord like interface on
 26. On the bottom right of your screen you will get a notification saying that you IT department requires changes to the device.
 ![Notification](_images/Notification.png)
 
-27. 
+27. The application will automatically download and install in the background once it is done it will have a notification that will pop up in the lower right hand corner saying that it finished downloading and installing.
+
+28. Now you can launch the app and use it.
+![Done](_images/Can-Search.png)
+
+![Launched App](_images/Wireshark.png)
